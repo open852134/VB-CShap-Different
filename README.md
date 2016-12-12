@@ -75,7 +75,7 @@ Private WithEvents ezTool As ezClass = New ezClass()
 
 -建立Handles事件
 Private Sub ezTool_ErrorEvent(Code As Integer, Message As String) Handles ezTool.ErrorEvent
-     -Do something...
+     'Do something...
 End Sub
 ```
 C#
