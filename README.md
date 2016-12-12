@@ -18,7 +18,7 @@ int int1 = 3;
 string string1 = "String";
 double double1 = 0.001;
 ```
-陣列(<forn color="red">注意括弧號 []  () </forn>)
+陣列(<fornt color="red">注意括弧號 []  () </fornt>)
 
 VB
 ``` VB
