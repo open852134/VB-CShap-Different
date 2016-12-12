@@ -263,7 +263,7 @@ Module mainModule
           Application.Run(mainform)
      End Sub
 End Module
-//設定APP程式進入點
+'設定APP程式進入點
 ``` 
 C# (純物件導向，不支援Moduel語法)
 ``` C#
