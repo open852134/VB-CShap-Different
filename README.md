@@ -240,9 +240,9 @@ End Function
 C# (純物件導向，不支援function語法)
 ``` C#
 public class ezTool{
-private string DecToBit(){
-  return "回傳直";
-}
+    private string DecToBit(){
+        return "回傳直";
+    }
 }
 
 //使用
